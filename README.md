@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi 👋 I'm Rehan Sagar
 
-<!--
-**Rehansagar/Rehansagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A data-focused engineering student who enjoys turning raw data into meaningful insights and scalable solutions.  
+I work at the intersection of **Data analysis, Machine learning, and Database systems**, with a strong focus on clean code and problem-solving.
 
-Here are some ideas to get you started:
+⚙️ **Technical Skill Set**
+- 🐍 Programming: Python  
+- 🗄 Databases: SQL, MySQL  
+- 📊 Data Analysis: EDA, Feature Engineering, Data Cleaning  
+- 🤖 Machine Learning: Supervised Learning, Model Evaluation  
+- 🧠 Core CS: DSA, DBMS, Computer Networks, Operating System 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **What Drives Me**
+- Building data-driven applications with real-world impact  
+- Optimizing data workflows and improving model performance  
+- Continuously learning software engineering and ML fundamentals  
+
+📈 **Goal**  
+To grow into a Software Engineer / Data Analyst and contribute to impactful, data-powered tech solutions.
+
