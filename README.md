@@ -18,4 +18,4 @@ I work at the intersection of **Data analysis, Machine learning, and Database sy
 📈 **Goal**  
 To grow into a Software Engineer / Data Analyst and contribute to impactful, data-powered tech solutions.
 
-📫 Reach me at: [LinkedIn]([https://www.linkedin.com/in/rehan-sagar-11a58a1b8/]) | [Email](rehansagar77@gmail.com)
+📫 Reach me at: rehansagar77@gmail.com
